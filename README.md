@@ -23,5 +23,25 @@
 
     Other areas in which KNN algorithm can be used are Speech Recognition, Handwriting Detection, Image Recognition and Video Recognition.
 
+## Pros and Cons of KNN
+
+### Pros
+  It is very simple algorithm to understand and interpret.
+
+  It is very useful for nonlinear data because there is no assumption about data in this algorithm.
+
+  It is a versatile algorithm as we can use it for classification as well as regression.
+
+  It has relatively high accuracy but there are much better supervised learning models than KNN.
+
+### Cons
+  It is computationally a bit expensive algorithm because it stores all the training data.
+
+  High memory storage required as compared to other supervised learning algorithms.
+
+  Prediction is slow in case of big N.
+
+  It is very sensitive to the scale of data as well as irrelevant features.
+
 #### Euclidean distance
  #### ![formula](https://render.githubusercontent.com/render/math?math=d%20=\sqrt{(%20x_2%20-%20x_1)^2%20%2B%20(%20y_2%20-%20y_1)^2%20})
